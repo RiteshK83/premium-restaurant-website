@@ -119,7 +119,7 @@ h4{
 .hero{
     min-height: 100vh;
 
-    background-image: url("../WEB_DEV_PROJECTS/restaurant.jpg");
+    background-image: url("images/restaurant.jpg");
     background-size: cover;
     background-position: center;
 
